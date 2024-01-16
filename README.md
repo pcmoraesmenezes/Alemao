@@ -160,3 +160,14 @@ Frases de posições
 | gehst du zum großvater?| você vai para o avô?|
 | ich bin aus brasilien| eu sou do brasil|
 | Man liest nich beim essen| não se lê durante a refeição|
+| ich trinke aus einem glass| eu bebo de um copo|
+| nach dem abendessen| depois do jantar|
+
+---
+
+Palavras avulsas
+
+| palavra | tradução |
+|---------|----------|
+| was | onde|
+| liebt | ama|
