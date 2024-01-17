@@ -162,7 +162,7 @@ Frases de posições
 | Man liest nich beim essen| não se lê durante a refeição|
 | ich trinke aus einem glass| eu bebo de um copo|
 | nach dem abendessen| depois do jantar|
-
+| aus einem | de um |
 ---
 
 Palavras avulsas
