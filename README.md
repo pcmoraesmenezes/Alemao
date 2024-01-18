@@ -171,3 +171,46 @@ Palavras avulsas
 |---------|----------|
 | was | onde|
 | liebt | ama|
+
+---
+
+Números
+
+| palavra | tradução |
+|---------|----------|
+| die eins | o um |
+| die zwei | o dois |
+| die drei | o tres |
+| die vier | o quatro |
+| die funf | o cinco |
+| die sechs | o seis|
+| die sieben | o sete|
+| die acht | o oito|
+| die neun | o nove|
+| die Zehn | o dez|
+| die Zwolf | o doze|
+| millarden | bilhões|
+
+Ordinais
+
+| palavra | tradução |
+|---------|----------|
+| der erste | o primeiro |
+| der zweite | o segundo |
+| eine dritte | a terceira |
+Palavras Simples
+
+| palavra | tradução |
+|---------|----------|
+| paar | par/algumas |
+| nummer | número|
+| summe| soma|
+| telefonnummer| número de telefone|
+| liter| litro|
+
+Frases
+
+| frase | tradução |
+|---------|----------|
+| wohnung nummer zwolf| apartamento número doze|
+| Ein paar Äpfel | algumas maçãs|
