@@ -204,9 +204,16 @@ Palavras Simples
 |---------|----------|
 | paar | par/algumas |
 | nummer | número|
+| die zahlen | os números|
+| die maẞe | as medidas|
+| die hälfte | a metade|
+| prozent | porcento|
+| millionen | milhões|
 | summe| soma|
 | telefonnummer| número de telefone|
 | liter| litro|
+| der meter| o metro|
+| etwas| um pouco/algo|
 
 Frases
 
@@ -214,3 +221,8 @@ Frases
 |---------|----------|
 | wohnung nummer zwolf| apartamento número doze|
 | Ein paar Äpfel | algumas maçãs|
+| es ist etwas kalt | está um pouco frio|
+| wir haben etwas geimensem | nós temos algo em comum|
+| er hört etwas | ele ouve algo|
+| ich möchte alles über Maja hören | eu quero ouvir tudo sobre Maja|
+| Pia verlässt das haus um halb acht | Pia sai da casa às sete e meia|
