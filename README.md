@@ -163,6 +163,8 @@ Frases de posições
 | ich trinke aus einem glass| eu bebo de um copo|
 | nach dem abendessen| depois do jantar|
 | aus einem | de um |
+| der Löffel ist auf dem tisch | a colher está na mesa |
+| er ist aus der schweiz | ele é da suíça |
 ---
 
 Palavras avulsas
