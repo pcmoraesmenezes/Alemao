@@ -228,3 +228,128 @@ Frases
 | er hört etwas | ele ouve algo|
 | ich möchte alles über Maja hören | eu quero ouvir tudo sobre Maja|
 | Pia verlässt das haus um halb acht | Pia sai da casa às sete e meia|
+
+
+Abendessen mit der familie - Jantar com a família
+
+
+Lin kommt in beas kuche - Lin entra na cozinha de Bea
+
+sie sieht essen und wein auf dem tisch - ela vê comida e vinho na mesa
+
+warum hast du so viel essen bea - por que você tem tanta comida Bea
+
+meine familie kommt zum abendessen - minha família vem para o jantar
+
+kann ich ein stuck kuchen haben - posso ter um pedaço de bolo
+
+aber du hast drei kuchen - mas você tem três bolos
+
+ich brauche die drei kuchen - eu preciso dos três bolos
+
+kann ich ein glas wein haben - posso ter um copo de vinho
+
+aber du hast vier flaschen wein - mas você tem quatro garrafas de vinho
+
+ich brauche viel wein - eu preciso de muito vinho
+
+kann ich ein stuck pizza haben - posso ter um pedaço de pizza
+
+um wie viel uhr kommt deine famillie heute? - a que horas sua família vem hoje?
+
+meine famillie kommt nachste woche - minha família vem na próxima semana
+
+das ist alles fur mich - isso é tudo para mim
+
+meine famillie ist sehr schweirig ich bin total gestresst - minha família é muito difícil, estou totalmente estressada
+
+ich brauche das ganze essen und den ganzen wein jetzt - eu preciso de toda a comida e todo o vinho agora
+
+---
+
+Fale com quem está, forme frases negativas
+
+| frase | tradução |
+|---------|----------|
+| mit dir | contigo |
+| ist jemand mit dier | alguém está contigo |
+| ihm geht es gut | ele está bem |
+| sie spricht mit ihm | ela fala com ele |
+| mit meinen eltern | com meus pais |
+| wie geht es meine frau | como está minha esposa |
+| meinem kind ist schelcht | meu filho está mal |
+| nein danke | não obrigado |
+| es gehort mir | é meu/ me pertence|
+| sie hilft ihm | ela ajuda ele |
+| du gehst mit uns | você vai conosco |
+| ich bin ihr mann | eu sou o marido dela |
+|gehoren | pertencer|
+| folgen | seguir|
+|beiden | ambos|
+|ich renne zu deinem haus | eu corro para a sua casa|
+| sie isst mit diesem loffel | ela come com essa colher|
+| sie trinkt aus ihren tassen | ela bebe de suas xícaras|
+| wir laufen zu seiner mutter | nós andamos ate a mãe dele|
+| er spicht mit unseren eltern | ele fala com nossos pais|
+| wie geht es deiner mutter | como está sua mãe|
+| mir geht es gut danke | estou bem obrigado|
+| Die bucher gehoren uns| os livros nos pertencem|
+
+---
+
+frases negativas:
+
+| frase | tradução |
+|-|-|
+| trinkt kein Ol | não bebe óleo |
+|Katzen mögen kein Wasser. | Gatos não gostam de água. |
+|Das ist kein Menü. | Isso não é um menu. |
+|Ich esse keine Nudeln. | Eu não como macarrão. |
+|Wir haben keinen Hund. | Nós não temos um cachorro. |
+|Niemals. | Jamais. |
+|Ich habe nichts. | Eu não tenho nada. |
+|nie | nunca |
+| das ist kein spielzeug | isso não é um brinquedo |
+|warum isst du kein obst | por que você não come frutas |
+
+Junior macht Sport - Junior faz esporte
+
+Junior spielt videospiel - Junior joga videogame
+
+Junior wollen wir sport machen? - Junior queremos fazer esporte?
+
+Nein ich will videospiel spielen - Não, eu quero jogar videogame
+
+Mochest du in den laden mit den videospiele gehen? - Você gostaria de ir à loja com os 
+videogames?
+
+oh ja - oh sim
+
+kannst du mein geld holen? es ist im schlafzimmer - você pode pegar meu dinheiro? está no quarto
+
+Junior lauft und holt das geld - Junior corre e pega o dinheiro
+
+hier papa - aqui pai
+
+und kannst du meinen schlussel holen? er ist in der kuche - e você pode pegar minha chave? está na cozinha
+
+Junior lauft und holt den schlussel - Junior corre e pega a chave
+
+konnen wir jetzt gehen? - podemos ir agora?
+
+Ich brauche meine jacke - eu preciso da minha jaqueta
+
+sie ist in wikrams wohnung - ela está no apartamento de Wikram
+
+aber wikram wohnt im vierten stock - mas Wikram mora no quarto andar
+
+du kannst das - você pode fazer isso
+
+Junior verlasst die wohnung und kommt mit eddys jacke wieder - Junior sai do apartamento e volta com a jaqueta de Eddy
+
+Super jetzt konnen wir gehen - ótimo, agora podemos ir
+
+ich bin mude - estou cansado
+
+warum? zu viel sport? - por que? muito esporte?
+
